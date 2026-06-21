@@ -1,0 +1,16 @@
+# Subtitle files — keep these local only, never upload
+*.srt
+
+# Python
+# Python's auto-generated cache folder (junk, not source)
+__pycache__/
+
+# compiled Python cytecode (also junkn)
+*.pyc
+
+# virtual environment folders
+.venv/
+venv/
+
+# Environment / secrets (for storing secrets like API keys)
+.env
